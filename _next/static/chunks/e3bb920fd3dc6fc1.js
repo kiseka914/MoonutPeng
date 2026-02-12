@@ -1035,7 +1035,7 @@
                 className: "jsx-b7934ff5881c1ed3 links-section",
                 children: [
                   (0, s.jsx)("a", {
-                    href: "https://x.com/i/communities/2021769013022359823",
+                    href: "https://x.com/MooNutPeng_coin",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "X Community",
@@ -1124,10 +1124,10 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: `https://solscan.io/token/${e}`,
+                    href: `https://Dextools.io/token/${e}`,
                     target: "_blank",
                     rel: "noopener noreferrer",
-                    title: "Solscan",
+                    title: "Dextools",
                     className: "jsx-b7934ff5881c1ed3 link-icon-btn",
                     children: (0, s.jsxs)("svg", {
                       viewBox: "0 0 24 24",
