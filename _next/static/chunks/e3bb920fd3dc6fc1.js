@@ -590,10 +590,7 @@
                         }),
                         (0, s.jsx)("span", {
                           className: "jsx-b7934ff5881c1ed3 timer-value",
-                          children:
-                            "working" === g.status
-                              ? "🔥 1,000,000,000"
-                              : S(g.seconds || 60),
+                          children: "🔥 1,000,000,000",
                         }),
                       ],
                     }),
