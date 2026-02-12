@@ -672,7 +672,7 @@
                       }),
                       (0, s.jsx)("h3", {
                         className: "jsx-b7934ff5881c1ed3",
-                        children: "The Fastest Runner of Solana",
+                        children: "The Fastest Runner of ethereum",
                       }),
                     ],
                   }),
@@ -1053,7 +1053,7 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: `https://dexscreener.com/solana/${e}`,
+                    href: `https://dexscreener.com/ethereum/0xComingSoon`,
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "DEX Screener",
@@ -1079,7 +1079,7 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: "https://www.coingecko.com/en/coins/solana",
+                    href: "https://www.coingecko.com/en/coins/ethereum",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "CoinGecko",
