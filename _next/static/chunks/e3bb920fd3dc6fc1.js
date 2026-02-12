@@ -1124,7 +1124,7 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: `https://dextools.io/token/0xf87E203DD47B445B6aBb07dAeEe119b294d16035`,
+                    href: `https://dextools.io/app/ether/pair-explorer/0xf87E203DD47B445B6aBb07dAeEe119b294d16035`,
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "Dextools",
