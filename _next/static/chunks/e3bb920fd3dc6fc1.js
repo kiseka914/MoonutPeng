@@ -1124,7 +1124,7 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: `https://Dextools.io/token/${e}`,
+                    href: `https://dextools.io/token/0xComingSoon`,
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "Dextools",
