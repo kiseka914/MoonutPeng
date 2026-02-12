@@ -641,7 +641,7 @@
                     (0, s.jsxs)("button", {
                       onClick: () => {
                         e &&
-                          (navigator.clipboard.writeText("0xComingSoon"),
+                          (navigator.clipboard.writeText("0xf87E203DD47B445B6aBb07dAeEe119b294d16035"),
                           h(!0),
                           setTimeout(() => h(!1), 2e3));
                       },
@@ -649,7 +649,7 @@
                       children: [
                         (0, s.jsx)("code", {
                           className: "jsx-b7934ff5881c1ed3",
-                          children: "0xComingSoon" || "Loading...",
+                          children: "0xf87E203DD47B445B6aBb07dAeEe119b294d16035" || "Loading...",
                         }),
                         (0, s.jsx)("span", {
                           className: "jsx-b7934ff5881c1ed3 copy-indicator",
@@ -1053,7 +1053,7 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: `https://dexscreener.com/ethereum/0xComingSoon`,
+                    href: `https://dexscreener.com/ethereum/0xf87E203DD47B445B6aBb07dAeEe119b294d16035`,
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "DEX Screener",
@@ -1124,7 +1124,7 @@
                     }),
                   }),
                   (0, s.jsx)("a", {
-                    href: `https://dextools.io/token/0xComingSoon`,
+                    href: `https://dextools.io/token/0xf87E203DD47B445B6aBb07dAeEe119b294d16035`,
                     target: "_blank",
                     rel: "noopener noreferrer",
                     title: "Dextools",
